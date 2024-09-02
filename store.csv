@@ -1,0 +1,33 @@
+id,name,category,price,image,categoryId,qty
+1,Tomato,"Fresh Vegetables",20.00,assets/images/vegetables/tomato.jpg,1,5
+2,Onion,"Fresh Vegetables",30.00,assets/images/vegetables/onion.jpg,1,0
+3,Brinjal,"Fresh Vegetables",50.00,assets/images/vegetables/brinjal.jpg,1,0
+4,Spinach,"Fresh Vegetables",20.00,assets/images/vegetables/spinach.jpg,1,3
+5,Coriander,"Fresh Vegetables",40.00,assets/images/vegetables/coriander.jpg,1,3
+6,Cucumber,"Fresh Vegetables",60.00,assets/images/vegetables/cucumber.jpg,1,3
+7,Apple,"Fresh Fruits",160.00,assets/images/fruits/apple.jpeg,2,4
+8,Banana,"Fresh Fruits",100.00,assets/images/fruits/banana.webp,2,0
+9,Chikko,"Fresh Fruits",40.00,assets/images/fruits/chikko.jpeg,2,3
+10,Orange,"Fresh Fruits",150.00,assets/images/fruits/orange.jpeg,2,3
+11,"Water melon","Fresh Fruits",40.00,assets/images/fruits/watermelon.jpeg,2,0
+12,Kiwi,"Fresh Fruits",80.00,assets/images/fruits/kiwi.jpeg,2,3
+13,Milk,Dairy,50.00,assets/images/dairy/milk.webp,3,0
+14,Curd,Dairy,50.00,assets/images/dairy/curd.jpeg,3,2
+15,Bread,Dairy,40.00,assets/images/dairy/bread.jpg,3,0
+16,Egg,Dairy,15.00,assets/images/dairy/egg.jpeg,3,3
+17,Cheese,Dairy,90.00,assets/images/dairy/cheese.webp,3,2
+18,Paneer,Dairy,120.00,assets/images/dairy/paneer.jpeg,3,2
+19,"Coconut oil","Edible oils",210.00,assets/images/oils/oil.jpeg,4,3
+20,Ghee,"Edible oils",300.00,assets/images/oils/ghee.webp,4,3
+21,Butter,"Edible oils",150.00,assets/images/oils/butter.jpeg,4,2
+22,"Groundnut oil","Edible oils",220.00,assets/images/oils/ground.webp,4,2
+23,Rice,"Fresh Vegetables",45.00,assets/images/cereals/rice.jpeg,5,0
+24,Wheat,"Fresh Vegetables",55.00,assets/images/cereals/wheat.webp,5,3
+25,Groundnuts,"Fresh Vegetables",120.00,assets/images/cereals/groundnut.jpeg,5,3
+26,Corn,"Fresh Vegetables",20.00,assets/images/cereals/corn.webp,5,3
+27,Barley,"Fresh Vegetables",150.00,assets/images/cereals/barley.jpeg,5,3
+28,Oats,"Fresh Vegetables",45.00,assets/images/cereals/oats.jpeg,5,3
+29,Turmeric,Masala,50.00,assets/images/masala/turmeric.webp,6,3
+30,"Cumen seeds",Masala,30.00,assets/images/masala/cumen.jpeg,6,3
+31,Pepper,Masala,60.00,assets/images/masala/pepper.jpeg,6,0
+32,Cardamom,Masala,70.00,assets/images/masala/cardamom.webp,6,0
